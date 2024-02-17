@@ -1,0 +1,9 @@
+{
+  "name": "Synthwave '84 Theme",
+  "version": "0.0.1",
+  "authors": [
+    "Daniel Schmidt <danielmschmidt92@gmail.com>"
+  ],
+  "description": "A port of the Synthwave '84 extension in VS Code",
+  "repository": "https://github.com/DanielMSchmidt/zed-synthwave"
+}
